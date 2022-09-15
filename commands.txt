@@ -1,0 +1,11 @@
+cd Documents
+cd "Fall 2022"
+git clone https://github.com/madelineadee/Computational-Social-Science-Projects.git
+cd Computational-Social-Science-Projects
+mkdir "Project 1"
+cd “Project 1”
+touch commands.txt
+vim commands.txt
+git add *
+git commit -m"Finished first part of project 1"
+git push
